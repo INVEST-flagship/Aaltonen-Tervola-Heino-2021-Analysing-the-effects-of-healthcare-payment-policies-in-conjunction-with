@@ -11,6 +11,12 @@ The study was conducted using national tax-benefit microsimulation model, SISU, 
 
 The full article can be found at: https://osf.io/preprints/socarxiv/m7h3u/
 
+## About the codes
+
+Codes are divided in to three modules: public healthcare customer fees (ASMAKSU), medicine reimbursements (LAAKE) and reimbursement of private health care and travel expenses (SAIRHKORV). Master module (KOKO) includes all previous groups and necessary SISU-model codes. SISU model codes are available at https://www.stat.fi/tup/mikrosimulointi/lataus.html 
+
+In addition, each module has different types of files (datamuok = raw data editing code, lakimakrot = detailed entities of the law divided into macros, simul = actual simulation code). Sub-modules can also be run independently without the KOKO module.
+
 ## Output examples
 
 <img width="979" alt="Screenshot 2022-01-31 at 9 51 35" src="https://user-images.githubusercontent.com/75479046/151757241-c1dcaa38-b78d-4ea5-9167-c471338e236c.png">
