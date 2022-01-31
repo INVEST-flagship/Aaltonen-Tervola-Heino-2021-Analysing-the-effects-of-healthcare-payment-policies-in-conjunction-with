@@ -3,6 +3,8 @@
 
 Katri Aaltola, Jussi Tervola & Pekka Heino
 
+[![DOI](https://zenodo.org/badge/453912515.svg)](https://zenodo.org/badge/latestdoi/453912515)
+
 ## Introduction
 
 Repository for the codes used for the analyses of Aaltonen, Tervola & Heino (2021) Analysing the effects of healthcare payment policies in conjunction with tax-benefit policies: A microsimulation study with real-world  healthcare data. Analyses in the article were conducted using SAS.
