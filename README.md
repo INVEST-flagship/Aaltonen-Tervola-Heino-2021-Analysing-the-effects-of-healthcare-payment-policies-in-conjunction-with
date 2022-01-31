@@ -29,7 +29,7 @@ PASMAKSU, PLAAKE and PSAIRHKORV tables contain numerical parameters of legislati
 
 ## Cite as
 
-Katri Aaltola, Jussi Tervola & Pekka Heino (2021) INVEST-flagship/Aaltonen-Tervola-Heino-Analysing-the-effects-of-healthcare-payment-policies-in-conjunction-with-tax-benefit-policies-A-microsimulation-study-with-real-world-healthcare-data. Zenodo. TÄHÄN DOI.
+Katri Aaltola, Jussi Tervola & Pekka Heino (2021) INVEST-flagship/Aaltonen-Tervola-Heino-Analysing-the-effects-of-healthcare-payment-policies-in-conjunction-with-tax-benefit-policies-A-microsimulation-study-with-real-world-healthcare-data. Zenodo. http://doi.org/10.5281/zenodo.5930173.
 
 ## License
 
