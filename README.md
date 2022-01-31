@@ -13,9 +13,11 @@ The full article can be found at: https://osf.io/preprints/socarxiv/m7h3u/
 
 ## About the codes
 
-Codes are divided in to three modules: public healthcare customer fees (ASMAKSU), medicine reimbursements (LAAKE) and reimbursement of private health care and travel expenses (SAIRHKORV). Master module (KOKO) includes all previous groups and necessary SISU-model codes. SISU model codes are available at https://www.stat.fi/tup/mikrosimulointi/lataus.html 
+Codes are divided into three legislation modules: public healthcare user charges (ASMAKSU), reimbursements for prescribed medicines (LAAKE) and reimbursement for private health care and travel expenses (SAIRHKORV). Master module (KOKO) runs all afore-mentioned modules and other SISU legislation modules, which are available at https://www.stat.fi/tup/mikrosimulointi/lataus.html.
 
-In addition, each module has different types of files (datamuok = raw data editing code, lakimakrot = detailed entities of the law divided into macros, simul = actual simulation code). Sub-modules can also be run independently without the KOKO module.
+In addition, modules have different types of files (datamuok = raw data editing code, lakimakrot = legislation macros, simul = actual simulation code). Sub-modules can also be run from the "simul"-files independently without the master module.
+
+PASMAKSU, PLAAKE and PSAIRHKORV tables contain numerical parameters of legislation in different years
 
 ## Output examples
 
