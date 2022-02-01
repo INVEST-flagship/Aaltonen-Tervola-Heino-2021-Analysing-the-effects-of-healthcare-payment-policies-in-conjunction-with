@@ -1,7 +1,7 @@
-# Aaltonen, Tervola & Heino (2021) Analysing the effects of healthcare payment policies in conjunction with tax-benefit policies: A microsimulation study with real-world  healthcare data
+# Tervola, Heino & Aaltonen (2021) Analysing the effects of healthcare payment policies in conjunction with tax-benefit policies: A microsimulation study with real-world  healthcare data
 ## A code repository for statistical analyses
 
-Katri Aaltola, Jussi Tervola & Pekka Heino
+Jussi Tervola, Pekka Heino & Katri Aaltonen
 
 [![DOI](https://zenodo.org/badge/453912515.svg)](https://zenodo.org/badge/latestdoi/453912515)
 
@@ -29,7 +29,7 @@ PASMAKSU, PLAAKE and PSAIRHKORV tables contain numerical parameters of legislati
 
 ## Cite as
 
-Katri Aaltola, Jussi Tervola & Pekka Heino (2021) INVEST-flagship/Aaltonen-Tervola-Heino-Analysing-the-effects-of-healthcare-payment-policies-in-conjunction-with-tax-benefit-policies-A-microsimulation-study-with-real-world-healthcare-data. Zenodo. http://doi.org/10.5281/zenodo.5930173.
+Jussi Tervola, Pekka Heino & Katri Aaltonen (2021) INVEST-flagship/Aaltonen-Tervola-Heino-Analysing-the-effects-of-healthcare-payment-policies-in-conjunction-with-tax-benefit-policies-A-microsimulation-study-with-real-world-healthcare-data. Zenodo. http://doi.org/10.5281/zenodo.5930173.
 
 ## License
 
